@@ -41,4 +41,8 @@ If you have version 1.0.18 or older, install the latest version manually once, f
 
 MultiDock's source code is not public. The "Source code (zip)" and "Source code (tar.gz)" archives under each version are created automatically by GitHub and contain only these README files. The `.dmg` file is the one to download.
 
+## License
+
+MultiDock is free to download and use on your own computers, but may not be sold or redistributed, modified or unmodified; link here instead. The app is provided as is, without warranty. The full license, and the license for [Sparkle](https://sparkle-project.org), which handles updates, are in the app under Settings → About → License and Third-Party Code.
+
 Requires macOS 27.
