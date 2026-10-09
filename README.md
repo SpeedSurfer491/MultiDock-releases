@@ -29,4 +29,8 @@ MultiDock uppdaterar sig själv. Den kollar en gång per dygn efter en ny versio
 
 Har du version 1.0.18 eller äldre installerar du den senaste versionen för hand en gång, enligt anvisningen ovan.
 
+## Källkod
+
+Källkoden till MultiDock är inte offentlig. Arkiven "Source code (zip)" och "Source code (tar.gz)" under varje version skapas automatiskt av GitHub och innehåller bara den här texten. Det är `.dmg`-filen du ska ladda ned.
+
 Kräver macOS 27.
