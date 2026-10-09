@@ -41,4 +41,8 @@ Har du version 1.0.18 eller äldre installerar du den senaste versionen för han
 
 Källkoden till MultiDock är inte offentlig. Arkiven "Source code (zip)" och "Source code (tar.gz)" under varje version skapas automatiskt av GitHub och innehåller bara de här README-filerna. Det är `.dmg`-filen du ska ladda ned.
 
+## Licens
+
+MultiDock är gratis att ladda ned och använda på dina egna datorer, men får inte säljas eller spridas vidare, ändrad eller oändrad; länka i stället hit. Appen levereras i befintligt skick, utan garantier. Hela licensen, och licensen för [Sparkle](https://sparkle-project.org) som sköter uppdateringarna, finns i appen under Inställningar → Om → Licens och tredjepartskod.
+
 Kräver macOS 27.
