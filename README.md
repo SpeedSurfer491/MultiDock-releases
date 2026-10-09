@@ -1,5 +1,7 @@
 # MultiDock
 
+**Svenska** | [English](README.en.md)
+
 En docka för varje skärm på macOS. Här finns de färdiga versionerna av MultiDock att ladda ned.
 
 ## Installera
@@ -37,6 +39,6 @@ Har du version 1.0.18 eller äldre installerar du den senaste versionen för han
 
 ## Källkod
 
-Källkoden till MultiDock är inte offentlig. Arkiven "Source code (zip)" och "Source code (tar.gz)" under varje version skapas automatiskt av GitHub och innehåller bara den här texten. Det är `.dmg`-filen du ska ladda ned.
+Källkoden till MultiDock är inte offentlig. Arkiven "Source code (zip)" och "Source code (tar.gz)" under varje version skapas automatiskt av GitHub och innehåller bara de här README-filerna. Det är `.dmg`-filen du ska ladda ned.
 
 Kräver macOS 27.
