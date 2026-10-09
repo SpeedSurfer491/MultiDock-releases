@@ -27,7 +27,7 @@ MultiDock then asks for the **Accessibility** permission (to move and keep track
 
 ## Now Playing
 
-A tile in the dock shows and controls what's playing in **Music Assistant**, **TIDAL** or **Spotify**: artwork, song, play/pause, next, previous, scrubbing and volume (TIDAL has no artwork or progress). In Settings → General you choose which source is shown when several are playing or none is, and you can switch source whenever you like by right-clicking the tile → "Source" or with the icons in the panel.
+A tile in the dock shows and controls what's playing in **Music Assistant**, **TIDAL** or **Spotify**: artwork, song, play/pause, next, previous, scrubbing and volume (TIDAL has no artwork or progress). In Settings → General you choose which source is shown when several are playing or none is, and you can switch source whenever you like by right-clicking the tile → "Source" or with the icons in the panel. Click the artwork in the panel to see it large in the middle of the screen; click anywhere or press Esc to close it.
 
 For Spotify, macOS asks the first time whether MultiDock may **control Spotify**. Without it the song is still shown, but without artwork and volume, and the buttons don't work. Change the choice in System Settings → Privacy & Security → Automation. Music Assistant needs the server's address and a token, entered in Settings → General.
 

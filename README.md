@@ -27,7 +27,7 @@ MultiDock ber sedan om behörighet för **Hjälpmedel** (för att flytta och hå
 
 ## Spelas nu
 
-En ruta i dockan visar och styr det som spelas i **Music Assistant**, **TIDAL** eller **Spotify**: omslag, låt, spela/pausa, nästa, föregående, spolning och volym (TIDAL har inget omslag eller förlopp). Under Inställningar → Allmänt väljer du vilken källa som ska visas när flera spelar eller inget gör det, och du byter källa när du vill genom att högerklicka på rutan → "Källa" eller med ikonerna i panelen.
+En ruta i dockan visar och styr det som spelas i **Music Assistant**, **TIDAL** eller **Spotify**: omslag, låt, spela/pausa, nästa, föregående, spolning och volym (TIDAL har inget omslag eller förlopp). Under Inställningar → Allmänt väljer du vilken källa som ska visas när flera spelar eller inget gör det, och du byter källa när du vill genom att högerklicka på rutan → "Källa" eller med ikonerna i panelen. Klicka på omslaget i panelen för att se det i stort format mitt på skärmen; klicka var som helst eller tryck på Esc för att stänga.
 
 För Spotify frågar macOS första gången om MultiDock får **styra Spotify**. Utan det visas låten ändå, men utan omslag och volym, och knapparna fungerar inte. Valet ändras under Systeminställningar → Integritet & säkerhet → Automatisering. Music Assistant kräver serverns adress och en token, som anges under Inställningar → Allmänt.
 
